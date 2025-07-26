@@ -286,13 +286,13 @@ $db   = "scarlett_store";
 
 ### Administrator
 
-- **Username**: admin123
+- **Username**: admin
 - **Password**: admin123
 - **Role**: admin
 
 ### User Demo
 
-- **Username**: user123
+- **Username**: user
 - **Password**: user123
 - **Role**: user
 
@@ -445,12 +445,12 @@ $db   = "scarlett_store";
 3. **Login sebagai Admin**
 
    - Pilih role: Administrator
-   - Username: admin123
+   - Username: admin
    - Password: admin123
 
 4. **Login sebagai User**
    - Pilih role: User
-   - Username: user123
+   - Username: user
    - Password: user123
 
 ## 🐛 Troubleshooting
