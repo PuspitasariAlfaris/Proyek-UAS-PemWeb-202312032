@@ -11,10 +11,10 @@ if (isset($_POST['submit'])) {
     $role = mysqli_real_escape_string($conn, $_POST['role']);
 
     // Enkripsi password (contoh sederhana)
-    $password_hash = password_hash($password, PASSWORD_DEFAULT);
+        // Store password as plain text (NOT RECOMMENDED for production)
 
     $query = mysqli_query($conn, "INSERT INTO users (nama, email, username, password, role) 
-                                  VALUES ('$nama', '$email', '$username', '$password_hash', '$role')");
+                                  VALUES ('$nama', '$email', '$username', '$password', '$role')");
 
     if ($query) {
         header("Location: pengguna.php");

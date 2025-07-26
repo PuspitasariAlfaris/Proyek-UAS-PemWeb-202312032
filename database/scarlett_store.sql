@@ -180,7 +180,7 @@ CREATE TABLE activity_log (
 
 -- Demo Users (admin/admin123 dan user/user123)
 INSERT INTO users (name, email, username, password, role) VALUES 
-('Administrator', 'admin@scarlettstore.com', 'admin', '$2y$10$lJHQzpYrra5xNdqC5dLzBefY.SuqZV2oX9v/BNv9wzxB4.KTH.2DS', 'admin'),
+('Administrator', 'admin@scarlettstore.com', 'admin', '$2a$12$nDPM9AT0Vl7voC8b9RhaP.97.g46ABiY5vnGm6BvWcWRScVZBiEgC', 'admin'),
 ('User Demo', 'user@scarlettstore.com', 'user', '$2a$12$jZLI5JMdTkoCDnPOiD.WFemKdEeQwb9/b1hL1f2uK2vhmP2EEBwca', 'user');
 
 -- Categories

@@ -1,6 +1,153 @@
-# Scarlett Store - Sistem E-Commerce
+# 🛍️✨ Scarlett Store - Your Beauty Shopping Paradise ✨🛍️
 
-Sistem e-commerce untuk toko kosmetik Scarlett Store yang dibangun dengan PHP native, MySQL, dan Bootstrap.
+<div align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/shopping-bag.png" alt="Scarlett Store Logo" width="120" height="120">
+  
+  [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-ff69b4?style=for-the-badge&logo=php)](https://php.net)
+  [![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-87ceeb?style=for-the-badge&logo=mysql)](https://mysql.com)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-dda0dd?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com)
+  [![Academic Project](https://img.shields.io/badge/Project-Academic-ffc0cb?style=for-the-badge)](https://sttbontang.ac.id)
+  
+  **💖 E-commerce Platform Modern & User-Friendly 💖**
+  
+  *Platform belanja online terpercaya dengan koleksi produk kecantikan terbaik*
+</div>
+
+---
+
+## 🌸 **Meet the Developer** 🌸
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">👩‍💻</td>
+      <td><strong>Nama</strong></td>
+      <td>Puspitasari Alfaris</td>
+    </tr>
+    <tr>
+      <td align="center">🎓</td>
+      <td><strong>NIM</strong></td>
+      <td>202312032</td>
+    </tr>
+    <tr>
+      <td align="center">💌</td>
+      <td><strong>Email</strong></td>
+      <td>puspitasarialfaris0@gmail.com</td>
+    </tr>
+    <tr>
+      <td align="center">🏫</td>
+      <td><strong>Program Studi</strong></td>
+      <td>Teknik Informatika</td>
+    </tr>
+    <tr>
+      <td align="center">🏛️</td>
+      <td><strong>Institusi</strong></td>
+      <td>Sekolah Tinggi Teknologi Bontang</td>
+    </tr>
+    <tr>
+      <td align="center">📚</td>
+      <td><strong>Proyek</strong></td>
+      <td>Ujian Akhir Semester - Pemrograman Web</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌐 **Demo & Live Preview**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.icons8.com/fluency/64/000000/youtube-play.png" width="64" height="64"/><br/>
+          <b>🎥 Video Demo</b><br/>
+          <sub>YouTube Presentation</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.icons8.com/fluency/64/000000/domain.png" width="64" height="64"/><br/>
+          <b>🌍 Live Demo</b><br/>
+          <sub>Hosted Application</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> 📝 **Catatan:** Ganti link `#` di atas dengan URL YouTube dan hosting yang sebenarnya
+
+### 🎬 **Video Demonstration**
+- **YouTube Link:** [Klik di sini untuk menonton demo aplikasi](#) 
+- **Duration:** ~10-15 menit
+- **Content:** Penjelasan fitur, demo penggunaan, dan code walkthrough
+
+### 🌍 **Live Application**
+- **Hosting URL:** [Akses aplikasi live di sini](#)
+- **Test Accounts:** Gunakan akun demo yang tersedia
+- **Status:** ✅ Online 24/7
+
+---
+
+## 📚 **Dokumentasi Lengkap**
+
+Untuk informasi lebih detail tentang proyek ini, silakan kunjungi dokumentasi lengkap berikut:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="docs/DATABASE.md">
+          <img src="https://img.icons8.com/fluency/48/000000/database.png" width="48" height="48"/><br/>
+          <b>🗄️ Database</b><br/>
+          <sub>Schema & Structure</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/INSTALLATION.md">
+          <img src="https://img.icons8.com/fluency/48/000000/software-installer.png" width="48" height="48"/><br/>
+          <b>🔧 Installation</b><br/>
+          <sub>Setup Guide</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/DEPLOYMENT.md">
+          <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="48" height="48"/><br/>
+          <b>🚀 Deployment</b><br/>
+          <sub>Production Guide</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/USAGE.md">
+          <img src="https://img.icons8.com/fluency/48/000000/user-manual.png" width="48" height="48"/><br/>
+          <b>📖 Usage</b><br/>
+          <sub>User Manual</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📋 **Quick Navigation**
+- [👩‍💻 Developer Info](#-meet-the-developer-) | [🎬 Demo & Preview](#-demo--live-preview) | [✨ Fitur](#-fitur-utama) | [🏗️ Arsitektur](#️-arsitektur-sistem)
+- [📁 Struktur](#-struktur-direktori) | [🚀 Instalasi](#-quick-start-guide) | [🖥️ Usage](#️-cara-penggunaan) | [🔒 Security](#-sistem-keamanan)
+- [🎨 Design](#-design-system--ui) | [🐛 Issues](#-troubleshooting) | [📞 Support](#-support--contact) | [📄 License](#-license)
+
+---
 
 ## 🚀 Fitur Utama
 
