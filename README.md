@@ -92,12 +92,12 @@
 > 📝 **Catatan:** Ganti link `#` di atas dengan URL YouTube dan hosting yang sebenarnya
 
 ### 🎬 **Video Demonstration**
-- **YouTube Link:** [Klik di sini untuk menonton demo aplikasi](#) 
+- **YouTube Link:** https://youtu.be/VkY6cFPNBKI?feature=shared(#) 
 - **Duration:** ~ 5-10 menit
 - **Content:** Penjelasan fitur, demo penggunaan, dan code walkthrough
 
 ### 🌍 **Live Application**
-- **Hosting URL:** [puspita.mangaverse.my.id](#)
+- **Hosting URL:** puspita.mangaverse.my.id(#)
 - **Test Accounts:** Gunakan akun demo yang tersedia
 - **Status:** ✅ Online 24/7
 
