@@ -93,11 +93,11 @@
 
 ### 🎬 **Video Demonstration**
 - **YouTube Link:** [Klik di sini untuk menonton demo aplikasi](#) 
-- **Duration:** ~10-15 menit
+- **Duration:** ~ 5-10 menit
 - **Content:** Penjelasan fitur, demo penggunaan, dan code walkthrough
 
 ### 🌍 **Live Application**
-- **Hosting URL:** [Akses aplikasi live di sini](#)
+- **Hosting URL:** [puspita.mangaverse.my.id](#)
 - **Test Accounts:** Gunakan akun demo yang tersedia
 - **Status:** ✅ Online 24/7
 
