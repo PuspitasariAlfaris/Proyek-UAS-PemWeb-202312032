@@ -103,6 +103,56 @@
 
 ---
 
+## 📂 **File Structure**
+
+<div align="center">
+
+```
+📁 clone-puspita/
+├── 📁 admin/                 # Panel Administrator
+│   ├── 📄 index.php         # Dashboard Admin
+│   ├── 📄 produk.php        # Manajemen Produk
+│   ├── 📄 kategori.php      # Manajemen Kategori
+│   ├── 📄 pengguna.php      # Manajemen Pengguna
+│   ├── 📄 transaksi.php     # Manajemen Transaksi
+│   └── 📁 laporan/          # Sistem Laporan
+├── 📁 assets/               # Resources & Media
+│   └── 📁 img/             # Images & Graphics
+├── 📁 auth/                 # Authentication System
+│   ├── 📄 login.php        # Login Interface
+│   └── 📄 proses_login.php # Login Processing
+├── 📁 backend/              # Backend Configuration
+│   └── 📄 koneksi.php      # Database Connection
+├── 📁 database/             # Database Files
+│   ├── 📄 scarlett_store.sql
+│   └── 📄 insert_demo_data.php
+├── 📁 docs/                 # Documentation
+│   ├── 📄 DATABASE.md       # Database Documentation
+│   ├── 📄 DEPLOYMENT.md     # Deployment Guide
+│   ├── 📄 INSTALLATION.md   # Installation Guide
+│   ├── 📄 USAGE.md          # Usage Manual
+│   └── 🖼️ er_diagram.png    # ERD Diagram
+├── 📁 user/                 # User Interface
+│   ├── 📄 index.php        # Homepage
+│   ├── 📄 detail.php       # Product Details
+│   └── 📄 riwayat.php      # Transaction History
+└── 📄 README.md            # Project Documentation
+```
+
+</div>
+
+---
+
+## 🗂️ **Entity Relationship Diagram (ERD)**
+
+<div align="center">
+  <img src="docs/er_diagram.png" alt="ERD Diagram - Scarlett Store Database Structure" width="800"/>
+  <br/>
+  <sub><i>📊 Database relationship structure for Scarlett Store E-commerce System</i></sub>
+</div>
+
+---
+
 ## 📚 **Dokumentasi Lengkap**
 
 Untuk informasi lebih detail tentang proyek ini, silakan kunjungi dokumentasi lengkap berikut:
